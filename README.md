@@ -1,11 +1,11 @@
-# School-management-application using Microservices Architecture
+# School-management-application using Java-SpringBoot-MongDB in a Microservices Architecture
 
 This project involves designing and developing a web-based software system for a school.
 The system will allow students to use their scores to receive rewards provided by the school.
 The system will have three main types of users: admin staff, teachers, and students.
 
-Admin staff will be able to manage schools and teachers on the system, while teachers will be able to manage
-their students. Students will be able to use their scores to purchase avatarelements or other rewards rewards.
+Admin staff is able to manage schools and teachers on the system, while teachers will be able to manage
+their students. Students also will be able to use their scores to purchase avatarelements or other rewards rewards.
 
 ## Development
 The system is developed using microservices architecture and the following services:
